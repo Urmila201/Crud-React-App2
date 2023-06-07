@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "id": 2,
+      "name": "Jane",
+      "email": "jane@example.com"
+    },
+    {
+      "id": 3,
+      "name": "John",
+      "email": "john@example.com"
+    },
+    {
+      "id": 5,
+      "name": "John",
+      "email": "john@example.coml"
+    },
+    {
+      "id": 6,
+      "name": "radha",
+      "email": "jane@example.com1"
+    },
+    {
+      "name": "urmila sarjerao landge",
+      "email": "ne@gmail.com",
+      "id": 7
+    },
+    {
+      "name": "Landge Urmila",
+      "email": "vaibhav@gmail.com",
+      "id": 8
+    }
+  ]
+}
